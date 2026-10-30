@@ -1,0 +1,24 @@
+
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editor settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

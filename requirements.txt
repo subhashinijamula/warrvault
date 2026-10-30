@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dateutil
+pillow
+bcrypt
+extra-streamlit-componentsss
