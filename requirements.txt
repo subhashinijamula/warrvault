@@ -3,4 +3,4 @@ pandas
 python-dateutil
 pillow
 bcrypt
-extra-streamlit-componentsss
+extra-streamlit-components
