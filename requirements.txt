@@ -3,4 +3,5 @@ pandas
 python-dateutil
 pillow
 bcrypt
+plotly
 extra-streamlit-components
